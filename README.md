@@ -1,0 +1,2 @@
+Generated a list of top hundred companies by revenue in the United States and the customer accounts using Wikipedia. Used a Web scraping package beautiful soup to scrap the website and pull the elements for the table. Use pandas libraries to create the data frame and insert the elements into a table and make a data set.
+Exported that data frame to a CSV file containing the company name, rankings and revenue details
